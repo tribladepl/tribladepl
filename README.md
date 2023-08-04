@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ai,ps,wordpress,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ai,ps,wordpress,figma,vscode)](https://skillicons.dev)
